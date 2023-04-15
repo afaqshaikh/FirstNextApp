@@ -18,6 +18,7 @@ export default function Home() {
       <main>
       <h1 className='fs-1 text-warning'>First Page</h1>
             <Link className='btn btn-outline-primary' href="/about">Go to About</Link>
+            <Link className='btn btn-outline-primary' href="/user">Go to Users</Link>
       </main>
     </>
   )
